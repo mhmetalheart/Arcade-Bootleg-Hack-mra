@@ -2,7 +2,7 @@
 Modified MRA files based on Jotego Arcade CPS1, CPS1.5, CPS2 and others.
 
 
-##CPS 1
+## CPS 1
 - Street Fighter II CE Super Gold (XIANG LONG like) sfreds05 hbmame.
 - Street Fighter II CE SHENG LONG sf2sl73a hbmame.
 - You must download CORRECT roms! Put the zip file in /GAMES/HBMAME/. Not in /GAMES/MAME/ folder!
