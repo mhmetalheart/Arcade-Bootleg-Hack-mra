@@ -1,6 +1,8 @@
 # Arcade-Bootleg-Hack-mra
 Modified MRA files based on Jotego Arcade CPS1, CPS1.5, CPS2 and others.
 
+## CPS 0
+- re-write Jotego's 1942 HBMame MRAs. Now should be worked fine. 1943 also.
 
 ## CPS 1
 - Street Fighter II CE Super Gold (XIANG LONG like) sfreds05 hbmame.
