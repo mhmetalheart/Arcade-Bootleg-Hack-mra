@@ -5,7 +5,10 @@ Modified MRA files based on Jotego Arcade CPS1, CPS1.5, CPS2 and others.
 - re-write Jotego's 1942 HBMame MRAs. Now should be worked fine. 1943 also.
 
 ## CPS 1
-- Street Fighter II CE Super Gold (XIANG LONG like) sfreds05 hbmame.
+- Three wonders Ex Super Version 3wonders01 hbmame.
+- Street Fighter II CE Koryux sfrces15 hbmame.
+- Street Fighter II CE Koryu sfrces22 hbmame.
+- Street Fighter II CE Super Golden sfreds05 hbmame.
 - Street Fighter II CE SHENG LONG sf2sl73a hbmame.
 - You must download CORRECT roms! Put the zip file in /GAMES/HBMAME/. Not in /GAMES/MAME/ folder!
 - The mra file named as folder in the hbmame. You should found a same folder. So, that is the correct hbmame file you downloaded. (can also check the CRC, to make sure you downloaded correct ones.)
