@@ -13,6 +13,7 @@ Modified MRA files based on Jotego Arcade CPS1, CPS1.5, CPS2 and others.
 - Street Fighter II CE Koryu sfrces22 hbmame.
 - Street Fighter II CE Super Golden sfreds05 hbmame.
 - Street Fighter II CE SHENG LONG sf2sl73a hbmame.
+- Final Fight 30th Anniversary Edition (World, hack) amended jotego's mra (mame). Now it can work. Add some HBMame hacks (hbmame rom).
 
 
 
