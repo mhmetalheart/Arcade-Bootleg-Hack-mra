@@ -19,8 +19,13 @@ Modified MRA files based on Jotego Arcade CPS1, CPS1.5, CPS2 and others.
 
 ## CPS 1.5
 
-- Sangokushi II SAN JIAN SHENG Asia (warriors of fate asia ver. bootleg) sk2h23 hbmame.
 - - Sangokushi II Asia mame rom. Amended jotego file. Now, it can work! You can see the backgrounds! : )
+- Sangokushi II SAN JIAN SHENG Asia (warriors of fate asia ver. bootleg) sk2h23 hbmame.
+
+
+## CPS CHANGER
+
+- Tenchi wo Kurau II (Extra Mode ON, 2013-03-19) wof CPS changer blue fire open tk2p19 hbmame.
 
   
 ## CPS 2
